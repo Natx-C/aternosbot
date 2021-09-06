@@ -2,7 +2,7 @@ var mineflayer = require('mineflayer')
 
 var bot = mineflayer.createBot({
   host: "pirecrafty.aternos.me",   
-  username: "KawanZiqra",
+  username: "PireCraftyBot",
   version: "1.17.1"
 })
 
